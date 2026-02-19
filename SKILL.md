@@ -3,7 +3,7 @@ name: promethean-risk-assessment
 description: 'Evaluate the Promethean bargain in any transformative action: what fire is being stolen from the gods, what price may be paid, and what cannot be undone once the power is claimed.'
 license: MIT
 metadata:
-  version: 1.0.4747
+  version: 1.0.4748
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
